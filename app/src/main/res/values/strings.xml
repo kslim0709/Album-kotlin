@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Album-Kotlin</string>
+
+    <string name="grant_advice_read_album">It is recommended to grant access to the album</string>
 </resources>
